@@ -12,8 +12,22 @@ _Create a function that takes a number as an argument, increments the number by 
 - 005 - Return the First Element in an Array: 
 _Create a function that takes an array containing only numbers and return the first element. Examples: getFirstValue([1, 2, 3]) ➞ 1, getFirstValue([80, 5, 100]) ➞ 80, getFirstValue([-500, 0, 50]) ➞ -500. Notes: The first element in an array always has an index of 0._
 
+- 006 - Find the Perimeter of a Rectangle:
+_Create a function that takes length and width and finds the perimeter of a rectangle. Examples: findPerimeter(6, 7) ➞ 26, findPerimeter(20, 10) ➞ 60, findPerimeter(2, 9) ➞ 22. Notes: Don't forget to return the result. If you're stuck, find help in the Resources tab. If you're really stuck, find solutions in the Solutions tab._
 
+- 007 - Convert Minutes into Seconds
+Write a function that takes an integer minutes and converts it to seconds.
 
+Examples
+convert(5) ➞ 300
+
+convert(3) ➞ 180
+
+convert(2) ➞ 120
+Notes
+Don't forget to return the result.
+If you get stuck on a challenge, find help in the Resources tab.
+If you're really stuck, unlock solutions in the Solutions tab.
 
 
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
