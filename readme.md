@@ -28,6 +28,9 @@
   _Create a function that takes the age in years and returns the age in days. Examples: calcAge(65) ➞ 23725, calcAge(0) ➞ 0, calcAge(20) ➞ 7300. Notes: Use 365 days as the length of a year for this challenge. Ignore leap years and days between last birthday and now. Expect only positive integer inputs._
 
 - 011 - Less Than 100?:
-_Given two numbers, return true if the sum of both numbers is less than 100. Otherwise return false. Examples: lessThan100(22, 15) ➞ true, // 22 + 15 = 37, lessThan100(83, 34) ➞ false, // 83 + 34 = 117, lessThan100(3, 77) ➞ true_
+  _Given two numbers, return true if the sum of both numbers is less than 100. Otherwise return false. Examples: lessThan100(22, 15) ➞ true, // 22 + 15 = 37, lessThan100(83, 34) ➞ false, // 83 + 34 = 117, lessThan100(3, 77) ➞ true_
+
+- 012 - Convert Hours into Seconds:
+  _Write a function that converts hours into seconds. Examples: howManySeconds(2) ➞ 7200, howManySeconds(10) ➞ 36000, howManySeconds(24) ➞ 86400. Notes: 60 seconds in a minute, 60 minutes in an hour, Don't forget to return your answer._
 
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
