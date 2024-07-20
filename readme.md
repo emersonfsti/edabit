@@ -33,16 +33,16 @@
 - 012 - Convert Hours into Seconds:
   _Write a function that converts hours into seconds. Examples: howManySeconds(2) ➞ 7200, howManySeconds(10) ➞ 36000, howManySeconds(24) ➞ 86400. Notes: 60 seconds in a minute, 60 minutes in an hour, Don't forget to return your answer._
 
-- 013 - Is the Number Less than or Equal to Zero?: 
-_Create a function that takes a number as its only argument and returns true if it's less than or equal to zero, otherwise return false. Examples: lessThanOrEqualToZero(5) ➞ false, lessThanOrEqualToZero(0) ➞ true, lessThanOrEqualToZero(-2) ➞ true. Notes: Don't forget to return the result. If you get stuck on a challenge, find help in the Resources tab. If you're really stuck, unlock solutions in the Solutions tab._
+- 013 - Is the Number Less than or Equal to Zero?:
+  _Create a function that takes a number as its only argument and returns true if it's less than or equal to zero, otherwise return false. Examples: lessThanOrEqualToZero(5) ➞ false, lessThanOrEqualToZero(0) ➞ true, lessThanOrEqualToZero(-2) ➞ true. Notes: Don't forget to return the result. If you get stuck on a challenge, find help in the Resources tab. If you're really stuck, unlock solutions in the Solutions tab._
 
-- 014 - Basketball Points: 
-_You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value. Examples: points(1, 1) ➞ 5, , points(7, 5) ➞ 29, points(38, 8) ➞ 100_
+- 014 - Basketball Points:
+  _You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value. Examples: points(1, 1) ➞ 5, , points(7, 5) ➞ 29, points(38, 8) ➞ 100_
 
- - 015 - Return Something to Me!: 
-_Write a function that returns the string "something" joined with a space " " and the given argument a. Examples: giveMeSomething("is better than nothing") ➞ "something is better than nothing", giveMeSomething("Bob Jane") ➞ "something Bob Jane", giveMeSomething("something") ➞ "something something"_
-  
- 
-  
-  
+- 015 - Return Something to Me!:
+  _Write a function that returns the string "something" joined with a space " " and the given argument a. Examples: giveMeSomething("is better than nothing") ➞ "something is better than nothing", giveMeSomething("Bob Jane") ➞ "something Bob Jane", giveMeSomething("something") ➞ "something something"_
+
+- 016 - Using the "&&" Operator:
+  _JavaScript has a logical operator &&. The && operator takes two boolean values, and returns true if both values are true. Consider a && b: a is checked if it is true or false. If a is false, false is returned. b is checked if it is true or false. If b is false, false is returned. Otherwise, true is returned (as both a and b are therefore true ). The && operator will only return true for true && true. Make a function using the && operator. Examples: and(true, false) ➞ false, and(true, true) ➞ true, and(false, true) ➞ false, and(false, false) ➞ false_
+
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
