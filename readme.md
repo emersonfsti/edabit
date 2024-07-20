@@ -39,4 +39,10 @@ _Create a function that takes a number as its only argument and returns true if 
 - 014 - Basketball Points: 
 _You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value. Examples: points(1, 1) ➞ 5, , points(7, 5) ➞ 29, points(38, 8) ➞ 100_
 
+ - 015 - Return Something to Me!: 
+_Write a function that returns the string "something" joined with a space " " and the given argument a. Examples: giveMeSomething("is better than nothing") ➞ "something is better than nothing", giveMeSomething("Bob Jane") ➞ "something Bob Jane", giveMeSomething("something") ➞ "something something"_
+  
+ 
+  
+  
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
