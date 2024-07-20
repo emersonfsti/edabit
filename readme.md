@@ -15,19 +15,10 @@ _Create a function that takes an array containing only numbers and return the fi
 - 006 - Find the Perimeter of a Rectangle:
 _Create a function that takes length and width and finds the perimeter of a rectangle. Examples: findPerimeter(6, 7) ➞ 26, findPerimeter(20, 10) ➞ 60, findPerimeter(2, 9) ➞ 22. Notes: Don't forget to return the result. If you're stuck, find help in the Resources tab. If you're really stuck, find solutions in the Solutions tab._
 
-- 007 - Convert Minutes into Seconds
-Write a function that takes an integer minutes and converts it to seconds.
+- 007 - Convert Minutes into Seconds: 
+_Write a function that takes an integer minutes and converts it to seconds. Examples: convert(5) ➞ 300, convert(3) ➞ 180, convert(2) ➞ 120. Notes: Don't forget to return the result. If you get stuck on a challenge, find help in the Resources tab. If you're really stuck, unlock solutions in the Solutions tab._
 
-Examples
-convert(5) ➞ 300
-
-convert(3) ➞ 180
-
-convert(2) ➞ 120
-Notes
-Don't forget to return the result.
-If you get stuck on a challenge, find help in the Resources tab.
-If you're really stuck, unlock solutions in the Solutions tab.
-
+- 008 - Buggy Code (Part 1): 
+_Fix the code in the code tab to pass this challenge (only syntax errors). Look at the examples below to get an idea of what the function should do. Examples: cubes(3) ➞ 27, cubes(5) ➞ 125, cubes(10) ➞ 1000. Notes: READ EVERY WORD CAREFULLY, CHARACTER BY CHARACTER!, Don't overthink this challenge; it's not supposed to be hard._
 
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
