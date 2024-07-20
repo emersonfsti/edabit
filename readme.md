@@ -36,4 +36,7 @@
 - 013 - Is the Number Less than or Equal to Zero?: 
 _Create a function that takes a number as its only argument and returns true if it's less than or equal to zero, otherwise return false. Examples: lessThanOrEqualToZero(5) ➞ false, lessThanOrEqualToZero(0) ➞ true, lessThanOrEqualToZero(-2) ➞ true. Notes: Don't forget to return the result. If you get stuck on a challenge, find help in the Resources tab. If you're really stuck, unlock solutions in the Solutions tab._
 
+- 014 - Basketball Points: 
+_You are counting points for a basketball game, given the amount of 2-pointers scored and 3-pointers scored, find the final points for the team and return that value. Examples: points(1, 1) ➞ 5, , points(7, 5) ➞ 29, points(38, 8) ➞ 100_
+
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
