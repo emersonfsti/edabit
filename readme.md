@@ -27,4 +27,7 @@
 - 010 - Convert Age to Days:
   _Create a function that takes the age in years and returns the age in days. Examples: calcAge(65) ➞ 23725, calcAge(0) ➞ 0, calcAge(20) ➞ 7300. Notes: Use 365 days as the length of a year for this challenge. Ignore leap years and days between last birthday and now. Expect only positive integer inputs._
 
+- 011 - Less Than 100?:
+_Given two numbers, return true if the sum of both numbers is less than 100. Otherwise return false. Examples: lessThan100(22, 15) ➞ true, // 22 + 15 = 37, lessThan100(83, 34) ➞ false, // 83 + 34 = 117, lessThan100(3, 77) ➞ true_
+
 ## Resp: https://github.com/emersonfsti/edabit/tree/main/js
